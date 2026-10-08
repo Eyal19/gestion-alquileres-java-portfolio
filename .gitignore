@@ -1,0 +1,59 @@
+# Java / Maven / generated distributions
+/target/
+/build/
+/dist/
+/package/
+/lib/
+/work/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.swp
+*~
+# IDE settings; Maven pom.xml is the portable project definition
+nbproject/private/
+nbactions.xml
+nb-configuration.xml
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+# Windows / OS files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+# Local data, exported documents, keys and backups
+*.alq
+*.alqbackup
+clave*.bin
+*.lock
+datos/
+datos-manuales/
+respaldos/
+para-compartir/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+
+# This repository contains presentation material only
+/src/
+*.java
+*.json
+*.zip
+*.exe
+*.msi
+/pom.xml
